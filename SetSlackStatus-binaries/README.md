@@ -1,4 +1,4 @@
-# Set Slack Status 1.0.0
+# :tada: Set Slack Status 1.0.0
 
 Tested under Win10/Win11 x64 - Required [MusicBee 3.x](https://www.getmusicbee.com/) and [.NET 4.5](https://www.microsoft.com/en-ca/download/details.aspx?id=30653)
 
@@ -28,7 +28,7 @@ Tested under Win10/Win11 x64 - Required [MusicBee 3.x](https://www.getmusicbee.c
 ### MusicBeePortable_3_4_custom.zip
 
 My Company's Advanced Malware Protection (AMP) is flagging the MSI installer and also the Portable version. So,
-I've [downloaded](https://www.un4seen.com/) the portable version and manually updated the culprit files, listed bellow:
+I've downloaded the [portable](https://www.getmusicbee.com/) version and manually [updated](https://www.un4seen.com/) the culprit files, listed bellow:
 
 **bassasio.dll** : 1.4.0.2  => 1.4.1.0
 
