@@ -6,7 +6,7 @@
 
 What's new? Tested under Win11 x64
 
-* Visual Studio 2022
+* Visual Studio 2019
 * Minimum .NET 4.5
 * C# 9.0 - switch pattern matching
 
